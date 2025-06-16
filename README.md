@@ -1,6 +1,8 @@
-## Hi there 👋
+Hi There
 
-My name is Frederyck Lohan, i'm 20 now and do an LCC course in UFPB.                      <img src="https://i.pinimg.com/originals/c4/1e/30/c41e304c90f23e849be92efcfe096b9e.gif" width="400" />
+My name is Frederyck Lohan, i'm 20 now and do an LCC course in UFPB.                   
+
+<img src="https://i.pinimg.com/originals/c4/1e/30/c41e304c90f23e849be92efcfe096b9e.gif" width="400" />
 
 
 basic - Python and java                
