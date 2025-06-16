@@ -8,7 +8,7 @@ My name is Frederyck Lohan, i'm 20 now and do an LCC course in UFPB.
 
 I had basic:
 Python and java      
-<div align = "right">
+<div align = "center">
   <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" />
 </div>
 I now intermedian:
