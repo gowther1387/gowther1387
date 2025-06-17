@@ -11,5 +11,5 @@ Python and java
 <div align = "center">
   <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" />
 </div>
-I now intermedian:
+I know intermedian:
 Inglish
