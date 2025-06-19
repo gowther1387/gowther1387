@@ -4,10 +4,10 @@ Hi There
   
   My name is Frederyck Lohan, i'm 20 now and do an LCC course in UFPB. 
 
-  <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" width="200" />
-
   ---
   ### I had basic:
+
+ <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" width="200" />
   
   Python and java
 
