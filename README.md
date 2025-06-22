@@ -9,7 +9,7 @@ Hi There
 
  <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" width="250" />
   
-  Python and java
+  Python, java and MySQL
 
   <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" />
   
