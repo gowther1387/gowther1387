@@ -18,7 +18,7 @@ Hi There
   ---
   ### Technologies I intend to master:
   
-  <img src="https://skillicons.dev/icons?i=python,java,spring,css,git,vscode,html,nodejs,javascript,kotlin,androidstudio,mysql,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,css,git,vscode,html,nodejs,javascript,kotlin,androidstudio,mysql,docker,postman,figma&perline=7" />
 </div>
 
   ---
