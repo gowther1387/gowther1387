@@ -16,9 +16,9 @@ Hi There
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowther1387&layout=compact&theme=dark" width="40%"/>
 
   ---
-  ### Technologies I intend to master:
+  ### Technologies I using:
   
-  <img src="https://skillicons.dev/icons?i=python,java,spring,css,git,vscode,html,nodejs,javascript,kotlin,androidstudio,mysql,docker,postman,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,git,vscode,mysql,docker,postman&perline=7" />
 </div>
 
   ---
