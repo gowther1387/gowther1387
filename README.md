@@ -18,7 +18,7 @@ Hi There
   ---
   ### Technologies I using:
   
-  <img src="https://skillicons.dev/icons?i=python,java,spring,git,vscode,mysql,docker,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,git,vscode,mysql,postman&perline=7" />
 </div>
 
   ---
