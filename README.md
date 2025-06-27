@@ -28,5 +28,7 @@
 
 
   Technologies I'am using:
+
+  
   <img src="https://skillicons.dev/icons?i=python,java,spring,git,vscode,mysql,postman&perline=7" />
 </div>
