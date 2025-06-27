@@ -1,6 +1,4 @@
-<h2><strong>
-  Hi there
-</strong></h2>
+<h1><strong> Hi There </strong></h1>
   
 <div align = "left">
 
