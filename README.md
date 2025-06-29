@@ -22,7 +22,7 @@
 
   <div>
       <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowther1387&layout=compact&theme=dark" width="40%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowther1387&layout=compact&theme=dark" width="50%"/>
   </div>
 
 
