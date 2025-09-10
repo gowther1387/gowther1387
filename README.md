@@ -30,5 +30,5 @@
   Technologies I'am using:
 
   
-  <img src="https://skillicons.dev/icons?i=python,java,golang,spring,github,vscode,mysql,postman,obsidian,notion&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,golang,spring,github,vscode,mysql,postgres,postman,obsidian,notion&perline=7" />
 </div>
