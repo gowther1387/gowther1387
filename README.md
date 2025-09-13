@@ -10,8 +10,10 @@
 
 
 
-  <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" width="250" />
 
+  <img src="https://github-profile-trophy.vercel.app/?username=gowther1387&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+
+ 
 
 
   <h1><strong>
@@ -21,8 +23,11 @@
 
 
   <div>
-      <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" />
+      <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" width = "51%"/>
+      <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=gowther1387&theme=dark&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" /> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowther1387&layout=compact&theme=dark" width="40%"/>
+     
+
   </div>
 
 
