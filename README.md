@@ -23,17 +23,19 @@
 
 
   <div>
-      <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" width = "51%"/>
-      <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=gowther1387&theme=dark&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" /> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowther1387&layout=compact&theme=dark" width="40%"/>
-     
-
+      <img src= "https://github-readme-stats.vercel.app/api?username=gowther1387&show_icons=true&theme=dark" width = "45%"/>
+      <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=gowther1387&theme=dark&border_radius=4.7&show_icons=true&count_private=true" width="48%" alt="stats graph" /> 
   </div>
 
 
 
   Technologies I'am using:
 
-  
   <img src="https://skillicons.dev/icons?i=python,java,golang,spring,github,vscode,mysql,postgres,postman,obsidian,notion&perline=7" />
 </div>
+
+  <a href="mailto:lohangcfc@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+
+  <a href="https://linkedin.com/in/Frederyck Lohan" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
