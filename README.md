@@ -4,16 +4,17 @@
 
   <img src="https://i.pinimg.com/originals/c4/1e/30/c41e304c90f23e849be92efcfe096b9e.gif" width="300" />
 
-
   
   <h1><strong>My name is Frederyck Lohan, i'm 20 now and do an LCC course in UFPB</strong></h1>
 
-
-
-
   <img src="https://github-profile-trophy.vercel.app/?username=gowther1387&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 
- 
+ <div >
+  <img src="https://github-readme-stats.vercel.app/api?username=gowther1387&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowther1387&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowther1387&radius=16&theme=react&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
 
 
   <h1><strong>
